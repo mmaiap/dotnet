@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var connectionString = "Server=localhost;Database=clinica;User=root;Password=tcvb11qas;";
+var connectionString = "Server=localhost;Database=clinica;User=root;Password=root;";
 var serverVersion = new MySqlServerVersion(new Version(8, 0, 21));
 
 builder.Services.AddDbContextPool<DataContext>(
