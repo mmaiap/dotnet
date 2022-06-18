@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\bin\Debug\net6.0\Clinica.Data.deps.json
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\bin\Debug\net6.0\Clinica.Data.runtimeconfig.json
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\bin\Debug\net6.0\Clinica.Data.dll
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\bin\Debug\net6.0\Clinica.Data.pdb
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.dll
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\refint\Clinica.Data.dll
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.pdb
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\Clinica.Data.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Clinica\Clinica.Data\obj\Debug\net6.0\ref\Clinica.Data.dll
